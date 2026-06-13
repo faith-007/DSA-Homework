@@ -1,10 +1,7 @@
-#include <iostream>
-#include <vector>
-
 class Solution
 {
 public:
-    std::vector<int> twoSum(std::vector<int> &nums, int target)
+    vector<int> twoSum(vector<int> &nums, int target)
     {
         int n = nums.size();
 
